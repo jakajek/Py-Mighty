@@ -1,0 +1,7 @@
+#buka idle
+#ketik print(sys.path)
+copy path program tsb
+#buka command prompt
+cd
+cd C:\Users\User\AppData\Local\Programs\Python\Python37-32\Scripts\
+pip install numpy
