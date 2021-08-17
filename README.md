@@ -1,0 +1,2 @@
+# Py-Mighty
+Python projects
